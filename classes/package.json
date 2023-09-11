@@ -1,0 +1,9 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "helpful-decorators": "^2.1.0"
+  }
+}
